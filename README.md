@@ -11,7 +11,7 @@
 - 📫 Comment me contacter : **florian.courouge@outlook.fr**
 - 🌐 Site web : **[floriancourouge.com](https://floriancourouge.com)**
 - 🎯 Devise : **J'adore créer des produits qui répondent et simplifient la vie des devs, users, métiers !**
-- ⚡ Fun fact : *"tester c'est douter"*
+- ⚡ Anecdote amusante : *"tester c'est douter"*
 
 ## 🛠️ Stack technique
 

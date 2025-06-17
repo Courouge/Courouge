@@ -14,6 +14,18 @@
 - 🎯 Devise : **J'adore créer des produits qui répondent et simplifient la vie des devs, users, métiers !**
 - ⚡ Anecdote amusante : *"tester c'est douter"*
 
+## 🎯 Domaines d'expertise
+
+**Data Engineering**
+- Architecture de streaming en temps réel
+- Monitoring et observabilité des pipelines
+- Optimisation des performances Kafka
+
+**DevOps & Automation**
+- Infrastructure as Code
+- Outils de développement et productivité
+- Migration et modernisation de legacy systems
+
 ## 🛠️ Stack technique
 
 **Streaming & Big Data**  
@@ -51,18 +63,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/floriancourouge)
 [![Portfolio](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://floriancourouge.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.courouge@outlook.fr)
-
-
-## 🎯 Domaines d'expertise
-
-**Data Engineering**
-- Architecture de streaming en temps réel
-- Monitoring et observabilité des pipelines
-- Optimisation des performances Kafka
-
-**DevOps & Automation**
-- Infrastructure as Code
-- Outils de développement et productivité
-- Migration et modernisation de legacy systems
-
----

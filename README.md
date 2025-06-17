@@ -43,9 +43,15 @@
 
 ## 📊 Statistiques GitHub
 
+![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Courouge?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/Courouge?style=for-the-badge&color=yellow)
+
 ![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=Courouge&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Courouge&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Courouge&theme=radical)
 
 ## 🔗 Connectons-nous
 

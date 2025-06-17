@@ -52,19 +52,6 @@
 [![Portfolio](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://floriancourouge.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.courouge@outlook.fr)
 
-## 🚀 Projets phares
-
-### 🔥 Outils populaires
-- **[kafka-cheat-code](https://github.com/Courouge/kafka-cheat-code)** ⭐ - Collection de scripts Shell et cheat codes pour Apache Kafka - *Très utile pour les ops Kafka*
-- **[ansible-beautify](https://github.com/Courouge/ansible-beautify)** 🎨 - Interface React & Python moderne pour refactoriser et moderniser les projets Ansible legacy
-
-### 📊 Monitoring & Data
-- **[kafka-monitor](https://github.com/Courouge/kafka-monitor)** 📈 - Application Java dédiée au monitoring de la croissance des log directories Kafka
-- **[DemoApp](https://github.com/Courouge/DemoApp)** ⚡ - Démonstration technique Scala & Spark Streaming
-
-### 🛠️ DevTools
-- **[pytools](https://github.com/Courouge/pytools)** 🐍 - Collection d'outils Python pour développeurs - *Productivity boosters*
-- **[Lyra](https://github.com/Courouge/Lyra)** 🚧 - Projet Python rapide (jeu de type speed run)
 
 ## 🎯 Domaines d'expertise
 

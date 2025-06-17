@@ -1,6 +1,8 @@
 # Bienvenue sur mon profil GitHub !
 
-## À propos de moi ![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
+
+## À propos de moi 
 - 🔭 Je travaille actuellement sur des **solutions de streaming à grande échelle**
 - 🌱 Passionné par **Apache Kafka, Spark Streaming et l'écosystème Big Data**
 - 👯 Je cherche à collaborer sur des **projets de data engineering et DevOps**

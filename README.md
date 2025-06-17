@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub ! 🎉  ![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
+# Bienvenue sur mon profil GitHub ! ![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
 
 ## À propos de moi
 - 🔭 Je travaille actuellement sur des **solutions de streaming à grande échelle**

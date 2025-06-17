@@ -56,4 +56,3 @@
 
 ## 📊 Statistiques GitHub
 ![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=Courouge&show_icons=true&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Courouge&theme=react-dark&hide_border=true)

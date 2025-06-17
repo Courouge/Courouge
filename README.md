@@ -7,7 +7,7 @@
 - 🔭 Je travaille actuellement sur des **solutions de streaming à grande échelle**
 - 🌱 Passionné par **Apache Kafka, Spark Streaming et l'écosystème Big Data**
 - 👯 Je cherche à collaborer sur des **projets de data engineering et DevOps**
-- 💬 Posez-moi des questions sur **Kafka, Python, Scala, monitoring et automatisation**
+- 💬 Posez-moi des questions sur **Kafka, Python, Ansible, monitoring et automatisation**
 - 📫 Comment me contacter : **florian.courouge@outlook.fr**
 - 🌐 Site web : **[floriancourouge.com](https://floriancourouge.com)**
 - ⚡ Fun fact : **J'adore créer des outils pour simplifier la vie des développeurs !**

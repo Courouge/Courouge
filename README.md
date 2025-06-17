@@ -10,7 +10,8 @@
 - 💬 Posez-moi des questions sur **Kafka, Python, Ansible, monitoring et automatisation**
 - 📫 Comment me contacter : **florian.courouge@outlook.fr**
 - 🌐 Site web : **[floriancourouge.com](https://floriancourouge.com)**
-- ⚡ Fun fact : **J'adore créer des outils pour simplifier la vie des développeurs !**
+- 🎯 Devise : **J'adore créer des produits qui répondent et simplifient la vie des devs, users, métiers !**
+- ⚡ Fun fact : *"tester c'est douter"*
 
 ## 🛠️ Stack technique
 
@@ -66,5 +67,3 @@
 - Migration et modernisation de legacy systems
 
 ---
-
-💡 *"tester c'est douter"*

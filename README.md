@@ -53,6 +53,18 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Courouge&theme=radical)
 
+## ⏱️ Wakatime Stats
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Courouge&theme=radical)
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Courouge&theme=react-dark&hide_border=true)e&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Courouge&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Courouge&theme=radical)
+
 ## 🔗 Connectons-nous
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/floriancourouge)

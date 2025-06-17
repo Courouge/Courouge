@@ -6,11 +6,11 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.courouge@outlook.fr)
 
 ## À propos de moi 
-- 🔭 Je travaille actuellement sur des **solutions de streaming à grande échelle**
-- 🌱 Passionné par **Apache Kafka, Spark Streaming et l'écosystème Big Data**
-- 👯 Je cherche à collaborer sur des **projets de data engineering et DevOps**
-- 🎯 Devise : **J'adore créer des produits qui répondent et simplifient la vie des devs, users, métiers !**
-- ⚡ Anecdote amusante : *"tester c'est douter"*
+- Je travaille depuis 2016 sur des **solutions de streaming à grande échelle**
+- Passionné par **Apache Kafka, Spark Streaming et l'écosystème Big Data**
+- Je cherche à collaborer sur des **projets de data engineering et DevOps**
+- Devise : **J'adore créer des produits qui répondent et simplifient la vie des devs, users, métiers !**
+- Anecdote amusante : *"tester c'est douter"*
 
 ## 🎯 Domaines d'expertise
 

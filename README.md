@@ -55,7 +55,6 @@
 ![OpenStack](https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 
 ## 📊 Statistiques GitHub
-
-<div align="center">
-![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=Courouge&show_icons=true&theme=radical)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Courouge&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>

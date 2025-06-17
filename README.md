@@ -1,7 +1,9 @@
 # Bienvenue sur mon profil GitHub !
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/floriancourouge)
+[![Portfolio](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://floriancourouge.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.courouge@outlook.fr)
 ## À propos de moi 
 - 🔭 Je travaille actuellement sur des **solutions de streaming à grande échelle**
 - 🌱 Passionné par **Apache Kafka, Spark Streaming et l'écosystème Big Data**
@@ -55,9 +57,3 @@
 
 ![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=Courouge&show_icons=true&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Courouge&theme=react-dark&hide_border=true)
-
-## 🔗 Connectons-nous
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/floriancourouge)
-[![Portfolio](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://floriancourouge.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.courouge@outlook.fr)

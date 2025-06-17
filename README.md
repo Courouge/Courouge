@@ -1,5 +1,5 @@
 # Salut ! 👋 Je suis Florian Courouge
-
+![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
 **Fast Data & DevOps Lead Engineer** 🚀  
 *Building large scale streaming solutions*
 
@@ -20,7 +20,6 @@
 ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 **Languages & Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,27 +42,8 @@
 
 ## 📊 Statistiques GitHub
 
-![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Courouge?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/Courouge?style=for-the-badge&color=yellow)
-
 ![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=Courouge&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Courouge&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Courouge&theme=radical)
-
-## ⏱️ Wakatime Stats
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Courouge&theme=radical)
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Courouge&theme=react-dark&hide_border=true)e&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Courouge&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Courouge&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Courouge&theme=react-dark&hide_border=true)
 
 ## 🔗 Connectons-nous
 

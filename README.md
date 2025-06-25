@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Courouge&color=brightgreen&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/floriancourouge)
 [![Portfolio](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://floriancourouge.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian.courouge@outlook.fr)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@floriancourouge.com)
 
 ## À propos de moi 
 - Je travaille depuis 2016 sur des **solutions de streaming à grande échelle**

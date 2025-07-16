@@ -7,7 +7,7 @@
 
 ## À propos de moi 
 - Je travaille depuis 2016 sur des **solutions streaming à grande échelle**
-- Passionné par **Apache Kafka, Spark Streaming et l'écosystème Big Data**
+- Passionné par **Apache Kafka, Ansible, Python dans l'écosystème Big Data**
 - Je cherche à collaborer sur des **projets de data engineering et DevOps**
 - Devise : **J'adore créer des produits qui répondent et simplifient la vie des devs, users, métiers !**
 - Anecdote amusante : *"tester c'est douter"*

@@ -15,9 +15,9 @@
 ## 🎯 Domaines d'expertise
 
 **Data Engineering**
-- Architecture de streaming en temps réel
+- Architecture streaming en temps réel
 - Monitoring et observabilité des pipelines
-- Optimisation des performances Kafka
+- Optimisation des performances Kafka (clusters, clients)
 
 **DevOps & Automation**
 - Infrastructure as Code
